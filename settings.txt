@@ -1,0 +1,2 @@
+C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe
+C:/Users/Yunus emre/AppData/Local/Programs/Microsoft VS Code/Code.exe
